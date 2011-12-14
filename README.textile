@@ -1,0 +1,4 @@
+h2.  ♥ Adventure Time dotjs theme for github.com  ♥
+
+* Install the Chrome extension dotjs: "defunkt.io/dotjs/":http://defunkt.io/dotjs/
+* Put the github.com.js file in your ~/.js directory
